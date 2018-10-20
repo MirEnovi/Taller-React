@@ -1,0 +1,19 @@
+.form {
+  background: #e2e2e2;
+  padding: 20px;
+  width: 100vw;
+}
+
+.form-input {
+  border: none;
+  margin: 10px;
+  padding: 5px;
+}
+
+.form-submit {
+  border: none;
+  background-color: blueviolet;
+  color: beige;
+  padding: 5px 10px;
+
+}
